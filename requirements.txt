@@ -1,0 +1,7 @@
+gymnasium
+stable-baselines3
+pandas
+numpy
+yfinance
+torch
+torch-geometric
