@@ -2,25 +2,6 @@
 
 **1-second bars · PyTorch PPO · RTX 4070 · MongoDB · Streamlit**
 
-## Tonight (one-time setup)
-
-```
-1. Double-click setup.bat
-   → installs deps, generates weights, starts data download in background
-   → data download takes 30-60 min for 1 year × 5 coins of 1-second bars
-
-2. Double-click train_overnight.bat
-   → leave running all night
-   → bot trains on 1-second data, saves weights after every episode
-   → memory persists — resumes from last episode if you restart
-```
-
-## Tomorrow morning (presentation)
-
-```
-Double-click start.bat
-→ opens http://localhost:8501 in your browser
-```
 
 ## What the dashboard shows
 
