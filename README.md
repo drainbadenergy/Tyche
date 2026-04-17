@@ -1,6 +1,6 @@
 # Tyche v7 — Crypto HFT Research System
 
-**1-second bars · PyTorch PPO · RTX 4070 · MongoDB · Streamlit**
+**1-second bars · PyTorch PPO · MongoDB · Streamlit**
 
 
 ## What the dashboard shows
