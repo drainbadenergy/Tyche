@@ -1,4 +1,4 @@
-# Tyche v7 — Crypto HFT Research System
+# Tyche — Crypto HFT Research System
 
 **1-second bars · PyTorch PPO · MongoDB · Streamlit**
 
@@ -40,7 +40,7 @@ Binance S3 (1-second OHLCV)
 ## File map
 
 ```
-tyche_v7/
+tyche/
 ├── setup.bat               one-click install
 ├── train_overnight.bat     overnight training
 ├── start.bat               launch dashboard
